@@ -4,10 +4,10 @@
 ### Passionate CSE Undergrad | Full-Stack & Blockchain Developer | Tech Explorer
 
 <p align="center">
-  <a href="mailto:satyavardhanthinnaluri@gmail.com"><img src="https://pngate.com/wp-content/uploads/2025/03/gmail-logo-app-icon-rounded-1.png" alt="Gmail"/></a>
+  <a href="mailto:satyavardhanthinnaluri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/satya-svt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/9BUiXDBILG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/9BUiXDBILG/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode"/></a>
   <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
 </p>
 
