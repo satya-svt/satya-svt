@@ -4,21 +4,10 @@
 ### Passionate CSE Undergrad | Full-Stack & Blockchain Developer | Tech Explorer
 
 <p align="center">
-  <a href="mailto:satyavardhanthinnaluri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="25"/>
-  </a>
-  <a href="https://github.com/satya-svt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/9BUiXDBILG/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="25"/>
-  </a>
-  <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
-  </a>
+  <a href="mailto:satyavardhanthinnaluri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/9BUiXDBILG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
 </p>
 
 </div>
@@ -99,6 +88,10 @@
 ---
 
 ## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" style="animation: spin 4s linear infinite;" />
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap&theme=dark&font=Baloo" alt="LeetCode Stats" />
