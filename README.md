@@ -1,12 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Thinnaluri Satya Vardhan Suri
+# 👨‍💻 Thinnaluri Satya Vardhan Suri  
+### Passionate CSE Undergrad | Full-Stack & Blockchain Developer | Tech Explorer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-vardhan-28b1b4324/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/satya-svt)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/9BUiXDBILG/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:satyavardhanthinnaluri@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-0A66C2?style=flat-square&logo=book&logoColor=white)](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
+<p align="center">
+  <a href="mailto:satyavardhanthinnaluri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/satya-svt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/9BUiXDBILG/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+</p>
 
 </div>
 
@@ -81,6 +84,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metamask/metamask-original.svg" alt="Metamask" width="36"/>
 
 </div>
+
+---
+
+## 🧠 LeetCode Stats
+
+[![LeetCode user stats](https://leetcard.jacoblin.cool/9BUiXDBILG?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/9BUiXDBILG/)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satya-svt&layout=compact&theme=radical)
 
 ---
 
