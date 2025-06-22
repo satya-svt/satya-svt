@@ -33,7 +33,7 @@
 ## 💼 Featured Projects
 
 ### 🔗 Blockchain based Decentralized Genome Ownership
-- Deployed & tested Ethereum smart contracts on Sepolia testnet to mint genomic NFTs and manage access control.
+- Deployed & tested Ethereum smart contracts on Sepolia testnet to mint genomic NFTs and manage access control securedly.
 - Full-stack DApp using **IPFS**, **React**, and **Solidity** for secure genomic data ownership.
 
 ### 🎮 React based Time-Loop-Runner Game
