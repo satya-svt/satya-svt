@@ -38,7 +38,7 @@
 
 ### 🎮 React based Time-Loop-Runner Game
 - Built an interactive runner game with **React**, featuring dynamic obstacles, scoring, and loop-based mechanics.
-- Responsive gameplay with **JavaScript**, **HTML5 Canvas**, **CSS**.
+- Responsive gameplay with all multimedia and **JavaScript**, **HTML5 Canvas**, **CSS**.
 
 ### 🏠 Smart Home Automation System
 - End-to-end smart home control system using **Python** & **Flask** for real-time sensor data and device handling.
