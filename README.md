@@ -3,74 +3,38 @@
 <!-- Animated Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header" />
 
-<!-- GitHub Contribution Style Name Animation -->
-<div align="center" style="margin-top: -50px; margin-bottom: 30px;">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Thinnaluri+Satya+Vardhan+Suri" alt="Name Animation" />
-  
-  <!-- Contribution Grid Style Border -->
-  <div style="display: inline-block; padding: 15px; margin-top: 10px;">
-    <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
-      <!-- Grid pattern around name -->
-      <defs>
-        <style>
-          .grid-rect { opacity: 0; animation: fillGrid 0.3s ease-in-out forwards; }
-          @keyframes fillGrid {
-            from { opacity: 0; fill: #161b22; }
-            to { opacity: 1; fill: var(--fill-color); }
-          }
-        </style>
-      </defs>
-      
-      <!-- Top row -->
-      <rect class="grid-rect" x="50" y="10" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 0.1s;" />
-      <rect class="grid-rect" x="70" y="10" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 0.2s;" />
-      <rect class="grid-rect" x="90" y="10" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 0.3s;" />
-      <rect class="grid-rect" x="110" y="10" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 0.4s;" />
-      
-      <!-- Continue pattern -->
-      <rect class="grid-rect" x="460" y="10" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 0.5s;" />
-      <rect class="grid-rect" x="480" y="10" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 0.6s;" />
-      <rect class="grid-rect" x="500" y="10" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 0.7s;" />
-      <rect class="grid-rect" x="520" y="10" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 0.8s;" />
-      
-      <!-- Bottom row -->
-      <rect class="grid-rect" x="50" y="55" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 0.9s;" />
-      <rect class="grid-rect" x="70" y="55" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 1.0s;" />
-      <rect class="grid-rect" x="90" y="55" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 1.1s;" />
-      <rect class="grid-rect" x="110" y="55" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 1.2s;" />
-      
-      <rect class="grid-rect" x="460" y="55" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 1.3s;" />
-      <rect class="grid-rect" x="480" y="55" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 1.4s;" />
-      <rect class="grid-rect" x="500" y="55" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 1.5s;" />
-      <rect class="grid-rect" x="520" y="55" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 1.6s;" />
-    </svg>
-  </div>
-  
-  <p style="color: #8b949e; font-size: 18px; margin-top: 10px; font-family: 'Segoe UI', sans-serif;">
-    Passionate CSE Undergrad | Full-Stack & Blockchain Developer | Tech Explorer
-  </p>
-  
-</div>
+<!-- GitHub Contribution Style Name with Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Thinnaluri+Satya+Vardhan+Suri" alt="Name Animation" />
+</h1>
 
-<!-- Animated Typing Text -->
+<!-- Contribution Grid Style Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💡+Blockchain+%26+AI+Enthusiast;🎯+Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60" />
+  <br/>
+  <samp>
+    🎓 Passionate CSE Undergrad | 💻 Full-Stack & Blockchain Developer | 🚀 Tech Explorer
+  </samp>
 </p>
 
-<!-- Glass Effect Social Links -->
+<!-- Animated Typing Subtitle -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+Future+with+Code;💡+Blockchain+%26+AI+Enthusiast;🎯+Problem+Solver+%26+Innovator" alt="Typing SVG" />
+</p>
+
+<!-- Social Links with Glass Effect -->
 <p align="center">
   <a href="mailto:satyavardhanthinnaluri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent&color=rgba(209,72,54,0.8)" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent&color=rgba(0,119,181,0.8)" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/9BUiXDBILG/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=transparent&color=rgba(255,161,22,0.8)" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=transparent&color=rgba(66,133,244,0.8)" alt="Resume" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -95,7 +59,7 @@ const satya = {
 
 <br clear="right"/>
 
-<!-- Animated Stats Cards -->
+<!-- Profile Stats -->
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=satya-svt&label=Profile%20Views&color=blueviolet&style=for-the-badge)
@@ -110,18 +74,18 @@ const satya = {
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://github.com/satya-svt/satya-svt/assets/your-asset-path/trophy.gif" width="50" alt="Trophy"/>
+<td align="center" width="250">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/trophy.gif" width="50" alt="Trophy"/>
 <br><strong>🏆 Hackathon Finalist</strong>
 <br><sub>Zero Zam Hackathon by MSC, SRMAP</sub>
 </td>
-<td align="center" width="200">
-<img src="https://github.com/satya-svt/satya-svt/assets/your-asset-path/certificate.gif" width="50" alt="Certificate"/>
+<td align="center" width="250">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/certificate.gif" width="50" alt="Certificate"/>
 <br><strong>📜 NPTEL Certified</strong>
 <br><sub>Programming in Java</sub>
 </td>
-<td align="center" width="200">
-<img src="https://github.com/satya-svt/satya-svt/assets/your-asset-path/ai.gif" width="50" alt="AI"/>
+<td align="center" width="250">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50" alt="AI"/>
 <br><strong>🤖 GenAI Enthusiast</strong>
 <br><sub>IDEALABS Gen AI participation</sub>
 </td>
@@ -132,56 +96,43 @@ const satya = {
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
 
-<details>
-<summary><b>🔗 Blockchain based Decentralized Genome Ownership</b></summary>
-<br>
-<p align="center">
+### 🔗 Blockchain based Decentralized Genome Ownership
+<p align="left">
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
 </p>
 
-- 🎯 Deployed & tested Ethereum smart contracts on Sepolia testnet
-- 🔐 Secure genomic NFT minting and access control
-- 🌐 Full-stack DApp with decentralized storage
-- ⚡ Real-time blockchain interactions
+- 🎯 Deployed & tested Ethereum smart contracts on Sepolia testnet to mint genomic NFTs
+- 🔐 Secure access control management for genomic data ownership
+- 🌐 Full-stack DApp using **IPFS**, **React**, and **Solidity**
+- ⚡ Real-time blockchain interactions with Web3 integration
 
-</details>
-
-<details>
-<summary><b>🎮 React based Time-Loop-Runner Game</b></summary>
-<br>
-<p align="center">
+### 🎮 React based Time-Loop-Runner Game
+<p align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-- 🎯 Interactive runner game with dynamic obstacles
-- 🔄 Loop-based mechanics and scoring system
-- 📱 Responsive gameplay across devices
-- 🎨 Rich multimedia and Canvas animations
+- 🎯 Interactive runner game with dynamic obstacles and scoring system
+- 🔄 Unique loop-based mechanics for enhanced gameplay
+- 📱 Responsive design with multimedia elements
+- 🎨 **HTML5 Canvas** animations and **CSS** styling
 
-</details>
-
-<details>
-<summary><b>🏠 Smart Home Automation System</b></summary>
-<br>
-<p align="center">
+### 🏠 Smart Home Automation System
+<p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-FF6B6B?style=for-the-badge&logo=iot&logoColor=white"/>
 </p>
 
-- 🏠 End-to-end smart home control system
-- 📊 Real-time sensor data processing
-- 🔌 Seamless device automation
-- 📱 Responsive web dashboard
-
-</details>
+- 🏠 End-to-end smart home control system using **Python** & **Flask**
+- 📊 Real-time sensor data processing and device management
+- 🔌 Integrated **IoT sensors** with REST API
+- 📱 Responsive web dashboard for seamless automation
 
 ---
 
@@ -189,27 +140,19 @@ const satya = {
 
 <div align="center">
 
-### Programming Languages
-<p>
+### 💻 Programming Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,solidity" />
-</p>
 
-### Frontend Technologies
-<p>
+### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,flutter" />
-</p>
 
-### Backend & Database
-<p>
+### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" />
-</p>
 
-### Tools & Platforms
-<p>
+### 🛠️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,linux" />
-</p>
 
-### Blockchain & Web3
+### 🔗 Blockchain & Web3
 <p>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
@@ -238,11 +181,11 @@ const satya = {
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"> Coding Stats
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="35"> Coding Journey
 
 <div align="center">
 
-### 🧠 LeetCode Journey
+### 🧠 LeetCode Stats
 <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap&theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 
 ### 📊 Most Used Languages
@@ -252,7 +195,7 @@ const satya = {
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Connect
 
 <div align="center">
 
@@ -260,16 +203,16 @@ const satya = {
 
 <p>
 <a href="mailto:satyavardhanthinnaluri@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/satya-svt">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://leetcode.com/u/9BUiXDBILG/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=transparent" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 </p>
 
@@ -284,22 +227,23 @@ const satya = {
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=satya-svt&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
 <!-- Snake Animation -->
 <div align="center">
 
-![Snake animation](https://github.com/satya-svt/satya-svt/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
 <!-- Footer -->
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 
-<!-- Fun Fact -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;💡+Star+my+repos+if+you+find+them+interesting;🚀+Let's+build+the+future+together!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;💡+Star+my+repos+if+you+find+them+interesting;🚀+Let's+build+the+future+together!" alt="Footer Typing SVG" />
+
 </div>
