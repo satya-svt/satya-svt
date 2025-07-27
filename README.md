@@ -1,125 +1,305 @@
 <div align="center">
 
-# 👨‍💻 Thinnaluri Satya Vardhan Suri  
-### Passionate CSE Undergrad | Full-Stack & Blockchain Developer | Tech Explorer
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header" />
 
+<!-- GitHub Contribution Style Name Animation -->
+<div align="center" style="margin-top: -50px; margin-bottom: 30px;">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Thinnaluri+Satya+Vardhan+Suri" alt="Name Animation" />
+  
+  <!-- Contribution Grid Style Border -->
+  <div style="display: inline-block; padding: 15px; margin-top: 10px;">
+    <svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+      <!-- Grid pattern around name -->
+      <defs>
+        <style>
+          .grid-rect { opacity: 0; animation: fillGrid 0.3s ease-in-out forwards; }
+          @keyframes fillGrid {
+            from { opacity: 0; fill: #161b22; }
+            to { opacity: 1; fill: var(--fill-color); }
+          }
+        </style>
+      </defs>
+      
+      <!-- Top row -->
+      <rect class="grid-rect" x="50" y="10" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 0.1s;" />
+      <rect class="grid-rect" x="70" y="10" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 0.2s;" />
+      <rect class="grid-rect" x="90" y="10" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 0.3s;" />
+      <rect class="grid-rect" x="110" y="10" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 0.4s;" />
+      
+      <!-- Continue pattern -->
+      <rect class="grid-rect" x="460" y="10" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 0.5s;" />
+      <rect class="grid-rect" x="480" y="10" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 0.6s;" />
+      <rect class="grid-rect" x="500" y="10" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 0.7s;" />
+      <rect class="grid-rect" x="520" y="10" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 0.8s;" />
+      
+      <!-- Bottom row -->
+      <rect class="grid-rect" x="50" y="55" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 0.9s;" />
+      <rect class="grid-rect" x="70" y="55" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 1.0s;" />
+      <rect class="grid-rect" x="90" y="55" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 1.1s;" />
+      <rect class="grid-rect" x="110" y="55" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 1.2s;" />
+      
+      <rect class="grid-rect" x="460" y="55" width="12" height="12" rx="2" style="--fill-color: #39d353; animation-delay: 1.3s;" />
+      <rect class="grid-rect" x="480" y="55" width="12" height="12" rx="2" style="--fill-color: #26a641; animation-delay: 1.4s;" />
+      <rect class="grid-rect" x="500" y="55" width="12" height="12" rx="2" style="--fill-color: #006d32; animation-delay: 1.5s;" />
+      <rect class="grid-rect" x="520" y="55" width="12" height="12" rx="2" style="--fill-color: #0e4429; animation-delay: 1.6s;" />
+    </svg>
+  </div>
+  
+  <p style="color: #8b949e; font-size: 18px; margin-top: 10px; font-family: 'Segoe UI', sans-serif;">
+    Passionate CSE Undergrad | Full-Stack & Blockchain Developer | Tech Explorer
+  </p>
+  
+</div>
+
+<!-- Animated Typing Text -->
 <p align="center">
-  <a href="mailto:satyavardhanthinnaluri@gmail.com"><img src="https://raw.githubusercontent.com/satya-svt/certifications/main/Mail%20Icon.png" height="29" width="35" style="margin-right: 20px" /></a>
-  <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="https://leetcode.com/u/9BUiXDBILG/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
-  <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf"><img src="https://raw.githubusercontent.com/satya-svt/certifications/main/Resume%20(2).png" alt="Resume" height="29" width="30"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Building+the+Future+with+Code;💡+Blockchain+%26+AI+Enthusiast;🎯+Problem+Solver+%26+Innovator" alt="Typing SVG" />
+</p>
+
+<!-- Glass Effect Social Links -->
+<p align="center">
+  <a href="mailto:satyavardhanthinnaluri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent&color=rgba(209,72,54,0.8)" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent&color=rgba(0,119,181,0.8)" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/9BUiXDBILG/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=transparent&color=rgba(255,161,22,0.8)" alt="LeetCode" />
+  </a>
+  <a href="https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=transparent&color=rgba(66,133,244,0.8)" alt="Resume" />
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```typescript
+const satya = {
+    education: "B.Tech CSE @ SRM University-AP",
+    passion: ["Technology", "Innovation", "Problem Solving"],
+    expertise: ["Algorithms", "System Design", "Full-Stack", "Blockchain"],
+    currentFocus: "Building decentralized applications",
+    mindset: "Always learning, always building! 🚀"
+};
+```
+
+<br clear="right"/>
+
+<!-- Animated Stats Cards -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=satya-svt&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/satya-svt?label=Followers&style=for-the-badge&color=blue)](https://github.com/satya-svt)
+[![GitHub Stars](https://img.shields.io/github/stars/satya-svt?label=Stars&style=for-the-badge&color=yellow)](https://github.com/satya-svt)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> Achievements & Highlights
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://github.com/satya-svt/satya-svt/assets/your-asset-path/trophy.gif" width="50" alt="Trophy"/>
+<br><strong>🏆 Hackathon Finalist</strong>
+<br><sub>Zero Zam Hackathon by MSC, SRMAP</sub>
+</td>
+<td align="center" width="200">
+<img src="https://github.com/satya-svt/satya-svt/assets/your-asset-path/certificate.gif" width="50" alt="Certificate"/>
+<br><strong>📜 NPTEL Certified</strong>
+<br><sub>Programming in Java</sub>
+</td>
+<td align="center" width="200">
+<img src="https://github.com/satya-svt/satya-svt/assets/your-asset-path/ai.gif" width="50" alt="AI"/>
+<br><strong>🤖 GenAI Enthusiast</strong>
+<br><sub>IDEALABS Gen AI participation</sub>
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
+
+<details>
+<summary><b>🔗 Blockchain based Decentralized Genome Ownership</b></summary>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+</p>
+
+- 🎯 Deployed & tested Ethereum smart contracts on Sepolia testnet
+- 🔐 Secure genomic NFT minting and access control
+- 🌐 Full-stack DApp with decentralized storage
+- ⚡ Real-time blockchain interactions
+
+</details>
+
+<details>
+<summary><b>🎮 React based Time-Loop-Runner Game</b></summary>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+- 🎯 Interactive runner game with dynamic obstacles
+- 🔄 Loop-based mechanics and scoring system
+- 📱 Responsive gameplay across devices
+- 🎨 Rich multimedia and Canvas animations
+
+</details>
+
+<details>
+<summary><b>🏠 Smart Home Automation System</b></summary>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-FF6B6B?style=for-the-badge&logo=internetofthings&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=rest&logoColor=white"/>
+</p>
+
+- 🏠 End-to-end smart home control system
+- 📊 Real-time sensor data processing
+- 🔌 Seamless device automation
+- 📱 Responsive web dashboard
+
+</details>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
+
+<div align="center">
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,solidity" />
+</p>
+
+### Frontend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,flutter" />
+</p>
+
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,linux" />
+</p>
+
+### Blockchain & Web3
+<p>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
 
-🎓 B.Tech CSE student at **SRM University-AP** passionate about technology, innovation, and real-world problem-solving.  
-🧠 Proficient in algorithms, system design, frontend, and decentralized backend architectures.  
-💡 Committed tech enthusiast, always learning and building!
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satya-svt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satya-svt&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
----
+</div>
 
-## 🏆 Highlights
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satya-svt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
 
-- **Hackathon Finalist**: Zero Zam Hackathon by MSC, SRMAP  
-- **Certified**: NPTEL Programming in Java  
-- **GenAI Enthusiast**: IDEALABS Gen AI participation
-
----
-
-## 💼 Featured Projects
-
-### 🔗 Blockchain based Decentralized Genome Ownership
-- Deployed & tested Ethereum smart contracts on Sepolia testnet to mint genomic NFTs and manage access control securedly.
-- Full-stack DApp using **IPFS**, **React**, and **Solidity** for secure genomic data ownership.
-
-### 🎮 React based Time-Loop-Runner Game
-- Built an interactive runner game with **React**, featuring dynamic obstacles, scoring, and loop-based mechanics.
-- Responsive gameplay with all multimedia and **JavaScript**, **HTML5 Canvas**, **CSS**.
-
-### 🏠 Smart Home Automation System
-- End-to-end smart home control system using **Python** & **Flask** for real-time sensor data and device handling.
-- Integrated **IoT sensors**, REST API, and web dashboard for seamless automation.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"> Coding Stats
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" />
+<div align="center">
+
+### 🧠 LeetCode Journey
+<img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap&theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-svt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Connect With Me
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Let's+collaborate+and+build+something+amazing!;Always+open+to+interesting+conversations;Feel+free+to+reach+out+anytime!)](https://git.io/typing-svg)
+
+<p>
+<a href="mailto:satyavardhanthinnaluri@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=transparent" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/satya-vardhan-28b1b4324/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=transparent" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/satya-svt">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=transparent" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/9BUiXDBILG/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=transparent" alt="LeetCode"/>
+</a>
 </p>
 
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
-</p>
+### 📄 [<img src="https://img.icons8.com/color/48/000000/resume.png" width="24"/> Download My Resume](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?logo=ipfs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metamask-F6851B?logo=metamask&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" style="animation: spin 4s linear infinite;" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap&theme=dark&font=Baloo" alt="LeetCode Stats" />
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-svt&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📄 [<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="24" align="center"> View My Resume](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
-
----
-
-## 📫 Contact
-
-- **Email:** satyavardhanthinnaluri@gmail.com  
-- **LinkedIn:** [satya-vardhan-28b1b4324](https://www.linkedin.com/in/satya-vardhan-28b1b4324/)  
-- **GitHub:** [satya-svt](https://github.com/satya-svt)  
-- **LeetCode:** [9BUiXDBILG](https://leetcode.com/u/9BUiXDBILG/)
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+
+![Snake animation](https://github.com/satya-svt/satya-svt/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+
+<!-- Fun Fact -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;💡+Star+my+repos+if+you+find+them+interesting;🚀+Let's+build+the+future+together!" alt="Footer Typing SVG" />
 </div>
