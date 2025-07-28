@@ -84,47 +84,7 @@ const satya = {
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
 
-### 🔗 Blockchain based Decentralized Genome Ownership
-<p align="left">
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
-</p>
-
-- 🎯 Deployed & tested Ethereum smart contracts on Sepolia testnet to mint genomic NFTs
-- 🔐 Secure access control management for genomic data ownership
-- 🌐 Full-stack DApp using **IPFS**, **React**, and **Solidity**
-- ⚡ Real-time blockchain interactions with Web3 integration
-
-### 🎮 React based Time-Loop-Runner Game
-<p align="left">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-- 🎯 Interactive runner game with dynamic obstacles and scoring system
-- 🔄 Unique loop-based mechanics for enhanced gameplay
-- 📱 Responsive design with multimedia elements
-- 🎨 **HTML5 Canvas** animations and **CSS** styling
-
-### 🏠 Smart Home Automation System
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-FF6B6B?style=for-the-badge&logo=iot&logoColor=white"/>
-</p>
-
-- 🏠 End-to-end smart home control system using **Python** & **Flask**
-- 📊 Real-time sensor data processing and device management
-- 🔌 Integrated **IoT sensors** with REST API
-- 📱 Responsive web dashboard for seamless automation
-
----
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
