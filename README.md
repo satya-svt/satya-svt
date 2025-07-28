@@ -85,19 +85,55 @@ const satya = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
-<div align="center">
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,solidity" />
-
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,flutter" />
-
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" />
-
-### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,linux" />
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">Skills
+<table align="center">
+  <tr>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" height="65" />
+    </td>
+    <td align="center" width="65">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" height="65" />
+    </td>
+    <td align="center" width="65">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="icon" height="65">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="65">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" height="65" />
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" height="65" />
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=next" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" height="65">
+    </td>
+    <td align="center" width="65">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" height="65">
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Blockchain & Web3
 <p>
