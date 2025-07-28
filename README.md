@@ -2,6 +2,7 @@
 
 <!-- GitHub Contribution Style Name with Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=23&pause=5000&color=2D67FF&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB++Thinnaluri+Satya+Vardhan+Suri)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=100000&color=465BBB&center=true&vCenter=true&width=435&lines=---------------------------------------------------------------)](https://git.io/typing-svg)
 
 <!-- Contribution Grid Style Animation -->
