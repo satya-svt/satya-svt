@@ -9,12 +9,8 @@
 </h1>
 
 <!-- Contribution Grid Style Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1000&width=435&lines=%F0%9F%8E%93+Passionate+CSE+Undergrad;%F0%9F%92%BB+Full-Stack+%26+Blockchain+Developer;%F0%9F%9A%80+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&width=435&lines=%F0%9F%8E%93+Passionate+CSE+Undergrad;%F0%9F%92%BB+Full-Stack+%26+Blockchain+Dev;%F0%9F%9A%80+Tech+Explorer)](https://git.io/typing-svg)
 
-<!-- Animated Typing Subtitle -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Building+the+Future+with+Code;💡+Blockchain+%26+AI+Enthusiast;🎯+Problem+Solver+%26+Innovator" alt="Typing SVG" />
-</p>
 
 <!-- Social Links with Glass Effect -->
 <p align="center">
