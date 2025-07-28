@@ -9,13 +9,7 @@
 </h1>
 
 <!-- Contribution Grid Style Animation -->
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60" />
-  <br/>
-  <samp>
-    🎓 Passionate CSE Undergrad | 💻 Full-Stack & Blockchain Developer | 🚀 Tech Explorer
-  </samp>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=25&pause=1000&width=435&lines=%F0%9F%8E%93+Passionate+CSE+Undergrad;%F0%9F%92%BB+Full-Stack+%26+Blockchain+Developer;%F0%9F%9A%80+Tech+Explorer)](https://git.io/typing-svg)
 
 <!-- Animated Typing Subtitle -->
 <p align="center">
