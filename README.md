@@ -5,6 +5,8 @@
 <!-- GitHub Contribution Style Name with Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&size=23&pause=5000&color=2D67FF&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB++Thinnaluri+Satya+Vardhan+Suri)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <!-- Contribution Grid Style Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=2EA2D4B8&width=435&lines=%F0%9F%8E%93+Passionate+CSE+Undergrad;%F0%9F%92%BB+Full-Stack+%26+Blockchain+Dev;%F0%9F%9A%80+Tech+Explorer)](https://git.io/typing-svg)
 
