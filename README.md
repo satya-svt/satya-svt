@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Contribution Grid Style Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&width=435&lines=%F0%9F%8E%93+Passionate+CSE+Undergrad;%F0%9F%92%BB+Full-Stack+%26+Blockchain+Dev;%F0%9F%9A%80+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=2EA2D4B8&width=435&lines=%F0%9F%8E%93+Passionate+CSE+Undergrad;%F0%9F%92%BB+Full-Stack+%26+Blockchain+Dev;%F0%9F%9A%80+Tech+Explorer)](https://git.io/typing-svg)
 
 
 <!-- Social Links with Glass Effect -->
