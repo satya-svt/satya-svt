@@ -198,7 +198,7 @@ const satya = {
 </a>
 </p>
 
-###[<img src="https://img.icons8.com/color/48/000000/resume.png" width="24"/> Download My Resume](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
+[<img src="https://img.icons8.com/color/48/000000/resume.png" width="24"/> Download My Resume](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
 
 </div>
 
