@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🎓+Passionate+CSE+Undergrad;💻+Full-Stack+%26+Blockchain+Developer;🚀+Tech+Explorer+%26+Innovator" alt="Roles Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&height=100&lines=🎓+Passionate+CSE+Undergrad;💻+Full-Stack+%26+Blockchain+Developer;🚀+Tech+Explorer+%26+Innovator" alt="Roles Animation" />
 </div>
 
 <!-- Animated Social Links -->
@@ -26,7 +26,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="35"> About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
@@ -47,27 +47,27 @@ const satya = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> Achievements & Highlights
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35"> Achievements & Highlights
 
 <div align="center">
   <table>
     <tr>
       <td align="center" style="border: 2px solid #39d353; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" alt="Trophy"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="60" alt="Trophy"/>
         <br><br>
         <strong style="color: #39d353; font-size: 18px;">🏆 Hackathon Finalist</strong>
         <br><br>
         <span style="color: #8b949e;">Zero Zam Hackathon by MSC, SRMAP</span>
       </td>
       <td align="center" style="border: 2px solid #667eea; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="60" alt="Certificate"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="60" alt="Certificate"/>
         <br><br>
         <strong style="color: #667eea; font-size: 18px;">📜 NPTEL Certified</strong>
         <br><br>
         <span style="color: #8b949e;">Programming in Java</span>
       </td>
       <td align="center" style="border: 2px solid #f85d7f; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" alt="AI"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60" alt="AI"/>
         <br><br>
         <strong style="color: #f85d7f; font-size: 18px;">🤖 GenAI Enthusiast</strong>
         <br><br>
@@ -79,7 +79,7 @@ const satya = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35"> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35"> Featured Projects
 
 <div align="center">
   
@@ -137,42 +137,49 @@ const satya = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35"> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> Tech Stack
 
 <div align="center">
 
 ### 💻 Programming Languages
 <p>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" alt="JavaScript"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f676.gif" width="60" alt="TypeScript"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257447-6140ff4b-7b07-4804-96c4-33ebe4ba5cb2.gif" width="60" alt="Python"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60" alt="C"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257464-883ec58e-face-4b56-8e51-7bc50074ce90.gif" width="60" alt="C++"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257456-8ec2b0a3-9b98-47fb-b71d-11b6b5c59fa1.gif" width="60" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" width="50" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=c" width="50" alt="C"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=java" width="50" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=solidity" width="50" alt="Solidity"/>
 </p>
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" alt="React"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257461-58e91adb-5d52-4f75-9991-7dd72a4f3e83.gif" width="60" alt="HTML"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257462-48d7a0b2-a00c-4e58-91b5-3e4df2832e73.gif" width="60" alt="CSS"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" alt="Flutter"/>
+<img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
+<img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
+<img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind"/>
+<img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="50" alt="Flutter"/>
 </p>
 
 ### ⚙️ Backend Development
 <p>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="Node.js"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257449-5c9b31b8-522f-4097-93f5-70ec37adb133.gif" width="60" alt="Express"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257450-7b7b9354-8c06-4c7c-b6b5-8c7e8d54c1a8.gif" width="60" alt="Flask"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" width="50" alt="Express"/>
+<img src="https://skillicons.dev/icons?i=flask" width="50" alt="Flask"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-<img src="https://user-images.githubusercontent.com/74038190/212257455-9f0b9c86-fb7e-4f0c-96ac-65f8e8b35ec6.gif" width="60" alt="VS Code"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257459-e5f2e8e1-49e4-4e6b-8c3f-f5e8c8e1e1e6.gif" width="60" alt="Git"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257458-7e87e8b2-46c3-47b0-b0c6-bf0f5b8c7b8e.gif" width="60" alt="AWS"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257457-9f0b9c86-fb7e-4f0c-96ac-65f8e8b35ec6.gif" width="60" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=docker" width="50" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=linux" width="50" alt="Linux"/>
 </p>
 
 ### 🔗 Blockchain & Web3
@@ -188,7 +195,7 @@ const satya = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"> GitHub Analytics
 
 <div align="center">
   
@@ -205,7 +212,7 @@ const satya = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Coding Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="35"> Coding Journey
 
 <div align="center">
 
@@ -219,7 +226,7 @@ const satya = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35"> Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"> Let's Connect
 
 <div align="center">
 
@@ -259,7 +266,7 @@ const satya = {
 <!-- Dark Snake Animation -->
 <div align="center">
 
-![](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
