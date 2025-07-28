@@ -85,7 +85,6 @@ const satya = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">Skills
 <table align="center">
   <tr>
     <td align="center" width="65">
