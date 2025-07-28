@@ -40,7 +40,7 @@ const satya = {
     passion: ["Technology", "Innovation", "Problem Solving"],
     expertise: ["Algorithms", "System Design", "Full-Stack", "Blockchain"],
     currentFocus: "Building decentralized applications",
-    mindset: "Always learning, always building! 🚀"
+    mindset: "Always learning, always building! Diplomat 🚀"
 };
 ```
 
