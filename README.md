@@ -37,9 +37,9 @@
 ```typescript
 const satya = {
     education: "B.Tech CSE @ SRM University-AP",
-    passion: ["Technology", "Innovation", "Problem Solving"],
+    passion: ["Technology", "Innovation", "Music"],
     expertise: ["Algorithms", "System Design", "Full-Stack", "Blockchain"],
-    currentFocus: "Building decentralized applications",
+    currentFocus: "Block-chain and Full-stack development",
     mindset: "Always learning, always building! Diplomat 🚀"
 };
 ```
@@ -198,7 +198,7 @@ const satya = {
 </a>
 </p>
 
-###[<img src="https://img.icons8.com/color/48/000000/resume.png" width="24"/> Download My Resume](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
+<img src="https://img.icons8.com/color/48/000000/resume.png" width="24"/> Download My Resume](https://github.com/satya-svt/certifications/blob/main/updated%20resume.pdf)
 
 </div>
 
