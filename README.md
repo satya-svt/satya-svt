@@ -235,15 +235,12 @@ const satya = {
 <!-- Snake Animation -->
 <div align="center">
 
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;💡+Star+my+repos+if+you+find+them+interesting;🚀+Let's+build+the+future+together!" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=⭐+Thanks+for+visiting+my+profile!;💡+Star+my+repos+if+you+find+them+interesting;🚀+Let's+build+the+future+together!" alt="Footer Typing SVG" />
 
 </div>
