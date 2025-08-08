@@ -134,6 +134,9 @@ const satya = {
   </tr>
 </table>
 
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-svt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
 ### 🔗 Blockchain & Web3
 <p>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -174,10 +177,8 @@ const satya = {
   </a>
   <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap" alt="LeetCode Stats"/>
 </p>
-<img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap&theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 
-### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satya-svt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+
 
 </div>
 
