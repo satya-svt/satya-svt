@@ -168,6 +168,12 @@ const satya = {
 <div align="center">
 
 ### 🧠 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/u/9BUiXDBILG/">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Day LeetCode Badge" height="200"/>
+  </a>
+  <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap" alt="LeetCode Stats"/>
+</p>
 <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap&theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 
 ### 📊 Most Used Languages
