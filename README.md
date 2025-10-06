@@ -176,7 +176,12 @@ const satya = {
   <a href="https://leetcode.com/u/9BUiXDBILG/">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Day LeetCode Badge" height="200"/>
   </a>
-  <img src="https://leetcard.jacoblin.cool/9BUiXDBILG?ext=heatmap" alt="LeetCode Stats"/>
+ <a href="https://leetcode.com/u/9BUiXDBILG/">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Day LeetCode Badge" height="200"/>
+  </a>
+  <a href="https://leetcode.com/u/9BUiXDBILG/">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="September LeetCode Badge" height="200"/>
+  </a>
 </p>
 
 
